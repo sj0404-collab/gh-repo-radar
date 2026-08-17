@@ -34,9 +34,14 @@
 ./scripts/build-release.sh
 ```
 
-Подписанный APK появится в `output/NimbusDeck-1.0.0-release.apk`.
+Готовый подписанный APK также хранится в репозитории:
+[`release/NimbusDeck-1.0.0-release.apk`](release/NimbusDeck-1.0.0-release.apk).
+При локальной сборке новая копия появится в
+`output/NimbusDeck-1.0.0-release.apk`.
+
 Локальный ключ должен находиться в `.local-signing/`; подробности и правила
 резервного копирования — в [docs/RELEASE_SIGNING.md](docs/RELEASE_SIGNING.md).
+Сам закрытый ключ намеренно не публикуется в GitHub.
 
 Для полностью нового ключа (только до первой публикации):
 

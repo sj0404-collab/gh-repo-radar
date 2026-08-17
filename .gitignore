@@ -10,6 +10,11 @@ output/
 *.apk
 *.aab
 
+# Published, signed deliverables are intentionally versioned
+!release/
+!release/*.apk
+!release/*.apk.sha256
+
 # Permanent release signing material — never commit
 .local-signing/
 keystore.properties
