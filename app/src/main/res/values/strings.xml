@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NimbusDeck</string>
+    <string name="brand_tag">CLOUD LAUNCHER</string>
+    <string name="hero_eyebrow_ready">READY TO STREAM</string>
+    <string name="hero_eyebrow_setup">ONE-TAP SETUP</string>
+    <string name="hero_title_ready">Your cloud library is ready</string>
+    <string name="hero_title_setup">Your games, one tap away</string>
+    <string name="hero_body_ready">Open the official streaming client instantly. NimbusDeck stays out of the way.</string>
+    <string name="hero_body_setup">Install the official client, sign in with your provider, then launch from one clean dashboard.</string>
+    <string name="launch_service">Launch GeForce NOW</string>
+    <string name="install_service">Install official client</string>
+    <string name="section_status">SYSTEM STATUS</string>
+    <string name="status_network">Network</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_client">Official client</string>
+    <string name="status_installed">Installed</string>
+    <string name="status_not_installed">Install required</string>
+    <string name="status_account">Account</string>
+    <string name="status_account_required">Provider sign-in</string>
+    <string name="account_title">Why is sign-in required?</string>
+    <string name="account_body">Streaming sessions, subscriptions and game libraries are managed by NVIDIA and your game stores. Sign-in happens only inside the official app—NimbusDeck never asks for or stores your password.</string>
+    <string name="account_action">How the service works</string>
+    <string name="privacy_title">Private by design</string>
+    <string name="privacy_body">No account, analytics or background service. The launcher only checks connectivity and whether the official client is installed.</string>
+    <string name="footer_disclaimer">Independent launcher · Not affiliated with or endorsed by NVIDIA</string>
+    <string name="open_failed">No app is available to open this link.</string>
+    <string name="service_launch_failed">The official client could not be opened.</string>
+    <string name="logo_description">NimbusDeck cloud launch logo</string>
+    <string name="refresh_description">Refresh service status</string>
+    <string name="refreshed">Status refreshed</string>
+</resources>

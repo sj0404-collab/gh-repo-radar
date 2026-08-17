@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NimbusDeck</string>
+    <string name="brand_tag">ОБЛАЧНЫЙ ЛАУНЧЕР</string>
+    <string name="hero_eyebrow_ready">ГОТОВО К ИГРЕ</string>
+    <string name="hero_eyebrow_setup">НАСТРОЙКА В ОДНО КАСАНИЕ</string>
+    <string name="hero_title_ready">Облачная библиотека готова</string>
+    <string name="hero_title_setup">Все игры — в одном касании</string>
+    <string name="hero_body_ready">Мгновенно открывайте официальный стриминговый клиент — без лишних экранов.</string>
+    <string name="hero_body_setup">Установите официальный клиент, войдите через провайдера и запускайте его с одной удобной панели.</string>
+    <string name="launch_service">Запустить GeForce NOW</string>
+    <string name="install_service">Установить официальный клиент</string>
+    <string name="section_status">СОСТОЯНИЕ СИСТЕМЫ</string>
+    <string name="status_network">Сеть</string>
+    <string name="status_online">Онлайн</string>
+    <string name="status_offline">Нет подключения</string>
+    <string name="status_client">Официальный клиент</string>
+    <string name="status_installed">Установлен</string>
+    <string name="status_not_installed">Нужна установка</string>
+    <string name="status_account">Аккаунт</string>
+    <string name="status_account_required">Вход у провайдера</string>
+    <string name="account_title">Почему нужен вход?</string>
+    <string name="account_body">Игровые сессии, подписки и библиотеки управляются NVIDIA и магазинами игр. Вход выполняется только в официальном приложении — NimbusDeck не запрашивает и не хранит пароль.</string>
+    <string name="account_action">Как работает сервис</string>
+    <string name="privacy_title">Приватность по умолчанию</string>
+    <string name="privacy_body">Без собственного аккаунта, аналитики и фоновой службы. Лаунчер лишь проверяет сеть и наличие официального клиента.</string>
+    <string name="footer_disclaimer">Независимый лаунчер · Не связан с NVIDIA и не одобрен ею</string>
+    <string name="open_failed">Не найдено приложение для открытия ссылки.</string>
+    <string name="service_launch_failed">Не удалось открыть официальный клиент.</string>
+    <string name="logo_description">Логотип облачного лаунчера NimbusDeck</string>
+    <string name="refresh_description">Обновить состояние сервисов</string>
+    <string name="refreshed">Состояние обновлено</string>
+</resources>

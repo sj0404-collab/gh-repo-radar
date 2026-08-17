@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#F7FAFF</color>
+    <color name="midnight">#050A18</color>
+    <color name="midnight_nav">#030612</color>
+    <color name="brand_cyan">#43E5FF</color>
+    <color name="brand_blue">#2979FF</color>
+    <color name="brand_violet">#8A63FF</color>
+</resources>

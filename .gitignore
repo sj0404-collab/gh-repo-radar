@@ -1,0 +1,29 @@
+# Local Android/build toolchains
+.gradle/
+.toolchain/
+local.properties
+
+# Build output
+build/
+app/build/
+output/
+*.apk
+*.aab
+
+# Published, signed deliverables are intentionally versioned
+!release/
+!release/*.apk
+!release/*.apk.sha256
+
+# Permanent release signing material — never commit
+.local-signing/
+keystore.properties
+*.jks
+*.keystore
+*nimbusdeck-signing-backup*.zip
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
