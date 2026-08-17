@@ -1,0 +1,24 @@
+# Local Android/build toolchains
+.gradle/
+.toolchain/
+local.properties
+
+# Build output
+build/
+app/build/
+output/
+*.apk
+*.aab
+
+# Permanent release signing material — never commit
+.local-signing/
+keystore.properties
+*.jks
+*.keystore
+*nimbusdeck-signing-backup*.zip
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
